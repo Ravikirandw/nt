@@ -3,3 +3,5 @@
 https://www.spidyworld.cf/sun?key=spidy&id=9014
 #EXTINF:-1  tvg-id="87" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telug.png" group-title="Kids",Hungama
 http://pakin.worldtvip.co/ind_hangamatv/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_web/1170x658611455469",Zee Kannada HD
+https://tv.dtvstream.online/dtv-zee/api.php?c=0-9-zeekannada
